@@ -1,0 +1,132 @@
+
+
+
+nav {     /* Navigoinnin muotoilu */
+margin: 0px;
+padding: 10px;
+border: 3px solid #55ff00;
+background-color: #000000;
+overflow: hidden;
+text-align: right; text-shadow: 4px;
+font-family: monospace;
+}
+
+div {
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+a:link { /* Linkkien muotoilu */
+    color:rgb(103, 67, 67);
+
+}
+
+a:visited {
+    color: rgb(132, 76, 132);
+}
+
+a:hover {
+    color: rgb(231, 12, 255);
+  }
+
+
+#Evolution {  /* Kuvan muotoilu */
+border: #cbd5ba;
+border-style: double;
+border-width: 2em;
+max-width: 50%;
+height: auto;
+display:block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+  
+  
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#ekabod { /* Body -määritykset */
+    background-image: url(media/pastelgreen.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#tokabod { /* Body -määritykset */
+    background-color: #b0d693;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#kolmasbod { /* Body -määritykset */
+    background-image: url(media/pastel-green-background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 { /* Otsikon -määritykset */
+text-align:center;
+font-size: 38px;
+font-family: monospace;
+background-color: #000000;
+color: #ffffff;
+text-shadow: 2.2px 1px #bdfe85;
+}
+
+#h2 {
+    background-color: rgb(0, 0, 0);
+    font-family: monospace;
+    text-align: center;
+    color: #ffffff;
+}
+
+#Port { /* Paragraph -määritykset */
+    color: #bdfe85;
+    text-shadow: 1.5px 1px #dd7fff;
+    text-align: center;
+
+}
+
+#viesti { /* Paragraph -määritykset */
+    text-align: start;
+    font-size: 15px;
+}
+
+
+p { /* Paragraph -määritykset */
+    font-family: monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+form {
+    background-color: rgb(215, 240, 228);
+    
+}
+
+#linkdimg {
+
+    height: 30px
+  
+}
+
+
+footer { /* footer -määritykset */
+   
+        position:absolute;
+       bottom: 0;
+        width:99.4%;
+
+    background-color: rgb(193, 241, 168);
+}
+
+#some {
+    font-size: 18px;
+
+}
